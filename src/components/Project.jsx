@@ -34,7 +34,7 @@ const Project = () => {
       img: project4,
       name: "Music Streaming",
       github_link:
-        "https://github.com/Sridhar-C-25/reacttailwindnavbar-with-dropdown",
+        "https://github.com/BokangLeangoabala",
       live_link: "https://splendid-liger-2576bc.netlify.app",
     },
     {
