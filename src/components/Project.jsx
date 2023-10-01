@@ -1,9 +1,9 @@
 import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
-import project1 from "../assets/images/project1.png";
+import project1 from "../assets/images/project-1.png";
 import project2 from "../assets/images/project2.jpg";
 import project3 from "../assets/images/project3.jpg";
-import project4 from "../assets/images/project4.jpg";
+import project4 from "../assets/images/project1.jpg";
 import project5 from "../assets/images/project-5.png";
 import project_person from "../assets/images/project_person1.png";
 import "swiper/css";
@@ -14,9 +14,9 @@ const Project = () => {
   const projects = [
     {
       img: project1,
-      name: "Travel-Agency",
-      github_link: "https://github.com/BokangLeangoabala/Travel-Agency.git",
-      live_link: "https://travel-agency-nu.vercel.app",
+      name: "Jiverr",
+      github_link: "https://github.com/BokangLeangoabala/jiverr.git",
+      live_link: "https://jiverr.vercel.app",
     },
     {
       img: project2,
@@ -32,10 +32,9 @@ const Project = () => {
     },
     {
       img: project4,
-      name: "Music Streaming",
-      github_link:
-        "https://github.com/BokangLeangoabala",
-      live_link: "https://splendid-liger-2576bc.netlify.app",
+      name: "Travel-Agency",
+      github_link: "https://github.com/BokangLeangoabala/Travel-Agency.git",
+      live_link:  "https://travel-agency-nu.vercel.app",
     },
     {
       img: project5,
